@@ -1,1 +1,1 @@
-{"version":"1.0.1", "notes":"In the "}
+{"version":"1.0.1", "notes":"In version 1.0.1 we have added the possibility of; set the custom trigger/export for the boss menu, custom names for each stash based on the job, possibility to choose the color of the vehicles and finally the invoice menu, all fully customizable through the various specific configs."}
