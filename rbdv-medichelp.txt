@@ -1,1 +1,1 @@
-{"version":"1.0.0", "notes":"rbdv-medichelp, a script that helps players when there aren't any doctors online "}
+{"version":"1.0.1", "notes":"rbdv-medichelp, a script that helps players when there aren't any doctors online "}
