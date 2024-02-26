@@ -1,1 +1,1 @@
-{"version":"1.0.2", "notes":"In version 1.0.2 we fixed the webhooks because Config.Title, Config.URL and Config.Name didn't work."}
+{"version":"1.0.2", "notes":"In version 1.0.2 we fixed the webhooks because Config.Title, Config.URL and Config.Name weren't working."}
